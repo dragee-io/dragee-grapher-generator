@@ -1,0 +1,17 @@
+{
+  "name": "@dragee-io/grapher-generator",
+  "module": "index.ts",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.5.0"
+  },
+	"dependencies": {
+		"commander": "^12.1.0",
+		"@dragee-io/type": "https://github.com/MichaelBernasinski/dragee-model"
+	}
+}
