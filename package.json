@@ -1,8 +1,8 @@
 {
-  "name": "@dragee-io/grapher-generator",
-  "module": "index.ts",
-  "type": "module",
-  "version": "0.0.1",
+	"name": "@dragee-io/grapher-generator",
+	"module": "index.ts",
+	"type": "module",
+	"version": "0.0.1",
 	"scripts": {
 		"format": "biome format --write",
 		"lint": "biome lint --write",
