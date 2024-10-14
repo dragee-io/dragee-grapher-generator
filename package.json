@@ -8,14 +8,13 @@
 		"lint": "biome lint --write",
 		"check": "biome check --write"
 	},
-  "devDependencies": {
+	"devDependencies": {
 		"@biomejs/biome": "^1.9.0",
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-		"@biomejs/biome": "^1.8.0",
-    "typescript": "^5.5.0"
-  },
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.5.0"
+	},
 	"dependencies": {
 		"commander": "^12.1.0",
 		"@dragee-io/type": "https://github.com/MichaelBernasinski/dragee-model"
