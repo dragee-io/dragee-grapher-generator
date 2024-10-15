@@ -1,3 +1,3 @@
 # dragee-grapher-generator
 
-CLI generator of dragee graphers for [https://github.com/MichaelBernasinski/dragee-cli](https://github.com/MichaelBernasinski/dragee-cli)
+CLI generator of dragee graphers for [https://github.com/dragee-io/dragee-cli](https://github.com/dragee-io/dragee-cli)
